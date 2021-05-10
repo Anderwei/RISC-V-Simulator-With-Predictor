@@ -29,7 +29,7 @@ Base on previous project [RISC-V Assembler](https://github.com/Anderwei/RISC-V-A
 > * gcc-c++ == 8.3.1-5.1.el8.x86_64  
 
 #### compile argument
-> g++ -g main.cpp -std=c++14 -Wall -o main
+` g++ -g main.cpp -std=c++14 -Wall -o main `
 
 ## Feature
 
@@ -53,7 +53,7 @@ Input `!` for skipping to the end
 ----------  
 [ BHT Table ]
   
-[ Register Table]
+[ Register Table ]
 ```
 ```
 0x0000              addi x2,x0,0          // v=0
