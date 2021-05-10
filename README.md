@@ -31,6 +31,10 @@ Base on previous project [RISC-V Assembler](https://github.com/Anderwei/RISC-V-A
 #### compile argument
 ` g++ -g main.cpp -std=c++14 -Wall -o main `
 
+## Usage
+run the code with  
+`./main [RiscV.s]`
+
 ## Feature
 
 ### Entry Setting
