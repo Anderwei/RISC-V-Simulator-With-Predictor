@@ -33,7 +33,9 @@ Base on previous project [RISC-V Assembler](https://github.com/Anderwei/RISC-V-A
 
 ## Usage
 run the code with  
-`./main [RiscV.s]`
+```
+./main [RiscV.s]
+```
 
 ## Feature
 
